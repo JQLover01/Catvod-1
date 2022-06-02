@@ -1,6 +1,6 @@
 {
 "wallpaper":"",
-"spider": "https://github.com/leexuben/Catvod/raw/master/jar/xb.txt",
+"spider": "https://raw.fastgit.org/leexuben/Catvod/master/jar/xb.txt",
   "sites": [
 {"key":"csp_xpath_libv","name":"Libvio（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/leexuben/Catvod/master/xpath/libv.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/leexuben/Catvod/master/xpath/zxzj2.json"},
